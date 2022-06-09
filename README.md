@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kumarsatwik
 - 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django Open Source Project
+- 💞️ I’m looking to collaborate on Python/Django Open Source Project
 - 📫 How to reach me (kumarsatwik6@gmail.com)
 
 <!---
