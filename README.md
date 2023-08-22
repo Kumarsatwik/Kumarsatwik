@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js and System Design**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-o7argj15k-kumarsatwik.vercel.app](https://portfolio-o7argj15k-kumarsatwik.vercel.app)
+- 👨‍💻 All of my projects are available at [https://www.kumarsatwik.site/](https://www.kumarsatwik.site/)
 
 - 📫 How to reach me **kumarsatwik6@gmail.com**
 
