@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kumar Satwik Satamanyu Beura</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js and System Design**
 
-- 👨‍💻 All of my projects are available at [https://www.kumarsatwik.site/](https://www.kumarsatwik.site/)
+- 👨‍💻 All of my projects are available at [https://www.kumarsatwik.site/](https://www.kumarsatwik.in/)
 
 - 📫 How to reach me **kumarsatwik6@gmail.com**
 
