@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://www.kumarsatwik.site/](https://www.kumarsatwik.in/)
+- 👨‍💻 All of my projects are available at [https://www.kumarsatwik.in/](https://www.kumarsatwik.in/)
 
 - 📫 How to reach me **kumarsatwik6@gmail.com**
 
